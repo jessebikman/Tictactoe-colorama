@@ -1,0 +1,4 @@
+This tic-tac-toe game written in Python 2.7 requires the colorama Python 
+library, which is available here: http://pypi.python.org/pypi/colorama or can 
+be downloaded through pip by typing "sudo pip install colorama" 
+into a terminal window
