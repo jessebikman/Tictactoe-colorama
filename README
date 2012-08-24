@@ -4,5 +4,4 @@ here: http://pypi.python.org/pypi/colorama and also
 can be downloaded through pip by typing "sudo pip install colorama" into 
 a terminal window.
 
-This code is Creative Commons (BY) licensed. Hence, you are free to share, 
-remix, and make commercial use of this work, but you must also attribute it.
+This code is MIT Licensed.
