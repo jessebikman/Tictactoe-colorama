@@ -9,7 +9,14 @@ This is a 2 player game.
 How to run: 
 1. Open a terminal window
 2. Move to the directory containing "game.py"
-3. Run "python game.py"
+3. Run "python game.py" and if that doesn't work, try "python2.7 game.py"
 
+**Update**
+I just started implementing 2 player ultimate tic-tac-toe
+
+How to run: 
+1. Open a terminal window
+2. Move to the directory containing "ultimate_game.py"
+3. Run "python ultimate_game.py" and if that doesn't work, try "python2.7 ultimate_game.py"
 
 This code is MIT Licensed.
