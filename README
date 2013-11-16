@@ -1,7 +1,7 @@
 This is a tic-tac-toe game written in Python 2.7, and requires 
 the Colorama library. Colorama may be found 
 here: http://pypi.python.org/pypi/colorama and also 
-can be downloaded through pip by typing "sudo pip install colorama" into 
+can be downloaded through pip by typing "pip install colorama" or "sudo pip install colorama" into 
 a terminal window, assuming you have pip installed.
 
 This is a 2 player game. 
@@ -9,10 +9,11 @@ This is a 2 player game.
 How to run: 
 1. Open a terminal window
 2. Move to the directory containing "game.py"
-3. Run "python game.py" and if that doesn't work, try "python2.7 game.py"
+3. Run "python game.py"
 
 **Update**
-I just started implementing 2 player ultimate tic-tac-toe
+I just started implementing 2 player ultimate tic-tac-toe. 
+I haven't finished writing the rules for it, but you should be able to see the board.
 
 How to run: 
 1. Open a terminal window
