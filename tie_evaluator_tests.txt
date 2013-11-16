@@ -1,0 +1,11 @@
+Test to verify that the function doesn't give false positives
+
+>>> from tie_evaluator import *
+>>> tie_evaluator(['x', 'x', 'o', 'o', 'o', 'x', 'x', 'o', 9])
+False
+
+
+Test to verify that the function does give true positives
+>>> from tie_evaluator import *
+>>> tie_evaluator(['x', 'x', 'o', 'o', 'o', 'x', 'x', 'o', 9])
+False
